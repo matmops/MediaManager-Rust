@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/home/matheo/github-classroom/uvsq-hal/medman-matmops/music-file/time-to-fall.mp3",
+    "date_created": {
+      "secs_since_epoch": 1636666107,
+      "nanos_since_epoch": 195878223
+    },
+    "date_modified": {
+      "secs_since_epoch": 1636666124,
+      "nanos_since_epoch": 211617468
+    },
+    "title": "Time To Fall",
+    "album": "",
+    "artist": "Enfant Sauvage",
+    "year": "2021"
+  },
+  {
+    "path": "/home/matheo/github-classroom/uvsq-hal/medman-matmops/music-file/assets_id3v2.mp3",
+    "date_created": {
+      "secs_since_epoch": 1636666982,
+      "nanos_since_epoch": 585333899
+    },
+    "date_modified": {
+      "secs_since_epoch": 1637367468,
+      "nanos_since_epoch": 383582969
+    },
+    "title": "This is a wonderful title isn't it?",
+    "album": "éàµ£ø§",
+    "artist": "Someone/Someone else",
+    "year": "2015"
+  }
+]
